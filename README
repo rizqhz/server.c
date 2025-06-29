@@ -1,0 +1,11 @@
+Simple client-server program in C
+
+How to compile:
+
+    make server
+    make client
+
+Running program:
+
+    ./server 127.0.0.1 8080
+    ./client
